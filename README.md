@@ -10,7 +10,7 @@
 
 - [在线阅读](https://zxztom.github.io/mechanics-solutions/)
 - [所有格式下载](https://zxztom.github.io/mechanics-solutions/downloads.html)
-- [全书 PDF（1133 页）](https://github.com/zxztom/mechanics-solutions/releases/download/teaching-2026-11-02/%E5%8A%9B%E5%AD%A6%E5%85%A8%E4%B9%A6%E4%B9%A0%E9%A2%98%E8%A7%A3%E6%9E%90_349%E9%A2%98_%E6%80%9D%E8%B7%AF%E6%95%99%E5%AD%A6%E7%89%88.pdf)
+- [全书 PDF（1133 页）](https://github.com/zxztom/mechanics-solutions/releases/download/teaching-2026-11-02/mechanics-complete-teaching.pdf)
 - [完整 Markdown](%E5%8A%9B%E5%AD%A6%E5%85%A8%E4%B9%A6%E4%B9%A0%E9%A2%98%E8%A7%A3%E6%9E%90_349%E9%A2%98_%E5%AE%8C%E6%95%B4%E6%96%87%E6%9C%AC.md)
 - [全部格式压缩包](https://github.com/zxztom/mechanics-solutions/releases/tag/teaching-2026-11-02)
 
@@ -18,14 +18,14 @@
 
 | 章节 | 题数 | 页数 | 下载 |
 |---|---:|---:|---|
-| 第 1 章 | 32 | 135 | [PDF](https://github.com/zxztom/mechanics-solutions/releases/download/teaching-2026-11-02/%E5%8A%9B%E5%AD%A6%E7%AC%AC%E4%B8%80%E7%AB%A0_%E8%B4%A8%E7%82%B9%E8%BF%90%E5%8A%A8%E5%AD%A6_%E6%80%9D%E8%B7%AF%E6%95%99%E5%AD%A6%E7%89%88.pdf) |
-| 第 2 章 | 35 | 125 | [PDF](https://github.com/zxztom/mechanics-solutions/releases/download/teaching-2026-11-02/%E5%8A%9B%E5%AD%A6%E7%AC%AC%E4%BA%8C%E7%AB%A0_%E7%89%9B%E9%A1%BF%E5%AE%9A%E5%BE%8B%E4%B8%8E%E5%8A%A8%E9%87%8F%E5%AE%9A%E7%90%86_%E6%80%9D%E8%B7%AF%E6%95%99%E5%AD%A6%E7%89%88.pdf) |
-| 第 3 章 | 38 | 187 | [PDF](https://github.com/zxztom/mechanics-solutions/releases/download/teaching-2026-11-02/%E5%8A%9B%E5%AD%A6%E7%AC%AC%E4%B8%89%E7%AB%A0_%E6%9C%BA%E6%A2%B0%E8%83%BD%E5%AE%9A%E7%90%86_%E6%80%9D%E8%B7%AF%E6%95%99%E5%AD%A6%E7%89%88.pdf) |
-| 第 4 章 | 35 | 108 | [PDF](https://github.com/zxztom/mechanics-solutions/releases/download/teaching-2026-11-02/%E5%8A%9B%E5%AD%A6%E7%AC%AC%E5%9B%9B%E7%AB%A0_%E8%A7%92%E5%8A%A8%E9%87%8F%E5%AE%9A%E7%90%86%E4%B8%8E%E5%A4%A9%E4%BD%93%E8%BF%90%E5%8A%A8_%E6%80%9D%E8%B7%AF%E6%95%99%E5%AD%A6%E7%89%88.pdf) |
-| 第 5 章 | 56 | 169 | [PDF](https://github.com/zxztom/mechanics-solutions/releases/download/teaching-2026-11-02/%E5%8A%9B%E5%AD%A6%E7%AC%AC%E4%BA%94%E7%AB%A0_%E8%B4%A8%E5%BF%83%E4%B8%8E%E5%88%9A%E4%BD%93_%E6%80%9D%E8%B7%AF%E6%95%99%E5%AD%A6%E7%89%88.pdf) |
-| 第 6 章 | 31 | 97 | [PDF](https://github.com/zxztom/mechanics-solutions/releases/download/teaching-2026-11-02/%E5%8A%9B%E5%AD%A6%E7%AC%AC%E5%85%AD%E7%AB%A0_%E6%B5%81%E4%BD%93_%E6%80%9D%E8%B7%AF%E6%95%99%E5%AD%A6%E7%89%88.pdf) |
-| 第 7 章 | 69 | 187 | [PDF](https://github.com/zxztom/mechanics-solutions/releases/download/teaching-2026-11-02/%E5%8A%9B%E5%AD%A6%E7%AC%AC%E4%B8%83%E7%AB%A0_%E6%8C%AF%E5%8A%A8%E5%92%8C%E6%B3%A2_%E6%80%9D%E8%B7%AF%E6%95%99%E5%AD%A6%E7%89%88.pdf) |
-| 第 9 章 | 53 | 134 | [PDF](https://github.com/zxztom/mechanics-solutions/releases/download/teaching-2026-11-02/%E5%8A%9B%E5%AD%A6%E7%AC%AC%E4%B9%9D%E7%AB%A0_%E7%8B%AD%E4%B9%89%E7%9B%B8%E5%AF%B9%E8%AE%BA_%E6%80%9D%E8%B7%AF%E6%95%99%E5%AD%A6%E7%89%88.pdf) |
+| 第 1 章 | 32 | 135 | [PDF](https://github.com/zxztom/mechanics-solutions/releases/download/teaching-2026-11-02/chapter-01-kinematics-teaching.pdf) |
+| 第 2 章 | 35 | 125 | [PDF](https://github.com/zxztom/mechanics-solutions/releases/download/teaching-2026-11-02/chapter-02-newton-momentum-teaching.pdf) |
+| 第 3 章 | 38 | 187 | [PDF](https://github.com/zxztom/mechanics-solutions/releases/download/teaching-2026-11-02/chapter-03-mechanical-energy-teaching.pdf) |
+| 第 4 章 | 35 | 108 | [PDF](https://github.com/zxztom/mechanics-solutions/releases/download/teaching-2026-11-02/chapter-04-angular-momentum-teaching.pdf) |
+| 第 5 章 | 56 | 169 | [PDF](https://github.com/zxztom/mechanics-solutions/releases/download/teaching-2026-11-02/chapter-05-rigid-bodies-teaching.pdf) |
+| 第 6 章 | 31 | 97 | [PDF](https://github.com/zxztom/mechanics-solutions/releases/download/teaching-2026-11-02/chapter-06-fluids-teaching.pdf) |
+| 第 7 章 | 69 | 187 | [PDF](https://github.com/zxztom/mechanics-solutions/releases/download/teaching-2026-11-02/chapter-07-oscillations-waves-teaching.pdf) |
+| 第 9 章 | 53 | 134 | [PDF](https://github.com/zxztom/mechanics-solutions/releases/download/teaching-2026-11-02/chapter-09-special-relativity-teaching.pdf) |
 
 ## 阅读方法
 
