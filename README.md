@@ -29,6 +29,13 @@
 | 第 7 章 | 69 | 187 | [PDF](https://github.com/zxztom/mechanics-solutions/releases/download/teaching-2026-11-02/chapter-07-oscillations-waves-teaching.pdf) |
 | 第 9 章 | 53 | 134 | [PDF](https://github.com/zxztom/mechanics-solutions/releases/download/teaching-2026-11-02/chapter-09-special-relativity-teaching.pdf) |
 
+## 本轮学习补充
+
+- 九章各有公式表，共 92 条公式关系，含用途、符号、条件与教材定位。
+- 根据题目内容选择 24 题补充：19 处求解路线比较、2 处明确标为辅助核对的分析，以及典型错解和条件变化说明。其余题保留原讲解，不强加第二种方法。
+- 未新增变式练习；原有独立自检保留。补充在“完整思路与推导”内按需展开，也参与续读、重新尝试与打印。
+- 可搜索“多解”找到有方法比较的题，搜索“典型错解”找到错误分析。
+
 ## 阅读方法
 
 先独立尝试，卡住时只展开一层提示；完整解答与最终答案均可单独查看。“重新尝试”收起本题所有提示。先点章节，再在顶部输入这一章的题号即可跳转；题目链接也可直接分享，例如 `#2-13`。题后“查看自检参考”可以跳到章末，并有返回原题的链接。支持全文搜索、整章连读、字号调整和记忆阅读位置。
